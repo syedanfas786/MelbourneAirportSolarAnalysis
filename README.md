@@ -6,7 +6,7 @@ This project involves analyzing a dataset from Melbourne Airport that includes s
 
 ## Files Included
 - `MelbAirportSolarData.csv`: The dataset used for the analysis.
-- `Syed-Anfas-Ahmed.R  The main R script containing the code for the analysis and visualizations.
+- `Syed-Anfas-Ahmed.R`  The main R script containing the code for the analysis and visualizations.
 - `Syed-Anfas-Ahmed-MelbAirSolarMyData.txt`: A subset of the sampled data.
 - `lettersdata.txt`: Data used for clustering analysis.
 
